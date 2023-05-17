@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="text-2xl font-bold uppercase w-20 h-20 bg-red-500 rounded-xl m-10">
+    <div className="m-10 h-20 w-20 rounded-xl bg-red-500 text-2xl font-bold uppercase">
       oi
     </div>
   )
